@@ -1,8 +1,8 @@
 camel:
   component:
     aws-sqs:
-      access-key: AKIAV2BPMNGTDZAEV5A4
-      secret-key: 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
+      access-key: key
+      secret-key: key
     aws-sns:
-      access-key: AKIAV2BPMNGTDZAEV5A4
-      secret-key: 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
+      access-key: key
+      secret-key: key
